@@ -1,0 +1,34 @@
+{
+	"name": "clone.util",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "anzerr",
+	"license": "MIT",
+	"devDependencies": {
+		"eslint": "5.11.1",
+		"eslint-config-basic": "git+ssh://git@github.com/anzerr/eslintrc.git"
+	},
+	"eslintConfig": {
+		"extends": "eslint-config-basic"
+	},
+	"dependencies": {
+		"type.util": "git+ssh://git@github.com/anzerr/type.util.git"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/anzerr/clone.util.git"
+	},
+	"engines": {
+		"node": ">= 0.10.0"
+	},
+	"types": "index.d.ts",
+	"bugs": {
+		"url": "https://github.com/anzerr/clone.util/issues"
+	},
+	"homepage": "https://github.com/anzerr/clone.util#readme"
+}
