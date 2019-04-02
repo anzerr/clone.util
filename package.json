@@ -11,13 +11,13 @@
 	"license": "MIT",
 	"devDependencies": {
 		"eslint": "5.11.1",
-		"eslint-config-basic": "git+http://git@github.com/anzerr/eslintrc.git"
+		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
 	},
 	"eslintConfig": {
 		"extends": "eslint-config-basic"
 	},
 	"dependencies": {
-		"type.util": "git+http://git@github.com/anzerr/type.util.git"
+		"type.util": "git+https://git@github.com/anzerr/type.util.git"
 	},
 	"repository": {
 		"type": "git",

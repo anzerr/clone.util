@@ -4,7 +4,7 @@ Copy object deep
 
 #### `Install`
 ``` bash
-npm install --save git+http://git@github.com/anzerr/clone.util.git
+npm install --save git+https://git@github.com/anzerr/clone.util.git
 ```
 
 ### `example`
