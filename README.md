@@ -1,13 +1,13 @@
 
 ### `Intro`
-Copy object deep
+Deep Copy of an object with circular breaks
 
 #### `Install`
 ``` bash
 npm install --save git+https://git@github.com/anzerr/clone.util.git
 ```
 
-### `example`
+### `Example`
 ``` javascript
 const copy = require('clone.util');
 
