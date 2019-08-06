@@ -4,7 +4,7 @@ Deep Copy of an object with circular breaks
 
 #### `Install`
 ``` bash
-npm install --save git+https://git@github.com/anzerr/clone.util.git
+npm install --save git+https://github.com/anzerr/clone.util.git
 ```
 
 ### `Example`
