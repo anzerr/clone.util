@@ -1,5 +1,7 @@
 
 ### `Intro`
+![GitHub Actions status | test](https://github.com/anzerr/clone.util/workflows/test/badge.svg)
+
 Deep Copy of an object with circular breaks
 
 #### `Install`

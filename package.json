@@ -1,7 +1,12 @@
 {
 	"name": "clone.util",
 	"version": "1.0.7",
-	"keywords": [],
+	"description": "Deep Copy objects",
+	"keywords": [
+		"nodejs",
+		"object",
+		"util"
+	],
 	"homepage": "https://github.com/anzerr/clone.util#readme",
 	"bugs": {
 		"url": "https://github.com/anzerr/clone.util/issues"
