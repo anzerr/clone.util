@@ -1,6 +1,6 @@
 {
 	"name": "clone.util",
-	"version": "1.0.13",
+	"version": "1.0.14",
 	"description": "Deep Copy objects",
 	"keywords": [
 		"nodejs",
